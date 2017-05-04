@@ -1,4 +1,4 @@
-Find Project Website Demo
+WiFind Project Website Demo 2017
 This is a bootstrap page modified for project website.  
 To do list:  
 
